@@ -14,8 +14,8 @@ I'm a developer passionate about web and data-driven technologies.
 - Constantly improving in **Power BI** for business intelligence solutions.
 
 ## 📫 How to reach me:
-- Email: leonardo@example.com
-- LinkedIn: [linkedin.com/in/leonardo](https://linkedin.com/in/leonardo)
+- Email: leosivi@gmail.com.com
+- LinkedIn: [linkedin.com/in/leonardo](https://www.linkedin.com/in/leonardotech/)
 
 ## ⚡ Fun fact:
 I enjoy exploring data insights and automating processes through code!
