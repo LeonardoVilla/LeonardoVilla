@@ -6,6 +6,7 @@ I'm a developer passionate about web and data-driven technologies.
 <div>
   <img src="https://github.com/LeonardoVilla/villaIcon/blob/main/androidstudio-original.svg" title="Java" alt="Java" width="40" height="40"/>
   <img src="https://github.com/LeonardoVilla/villaIcon/blob/main/php-original.svg" title="Java" alt="Java" width="40" height="40"/>
+  <img src="https://github.com/LeonardoVilla/villaIcon/blob/main/laravel-original.svg" title="Java" alt="Java" width="40" height="40"/>
 </div>
 
 - JavaScript (Node.js, Express, Frontend)
