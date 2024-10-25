@@ -10,9 +10,7 @@ I'm a developer passionate about web and data-driven technologies.
 - Excel (Advanced Formulas, VBA)
 
 ## 🌍 Certificações Internacionais:
-![Microsoft Certified Educator](https://images.credly.com/size/80x80/images/54f7ea40-48bc-4217-b398-b81bae6de175/MCE.png)
-&nbsp;&nbsp;&nbsp;&nbsp;  
-![Microsoft Office Specialist: Excel](https://images.credly.com/size/160x160/images/9d2bcbe6-519f-4ed0-ad34-aca077421568/MOS_Excel.png)
+![Microsoft Certified Educator](https://images.credly.com/size/80x80/images/54f7ea40-48bc-4217-b398-b81bae6de175/MCE.png)&nbsp;&nbsp;&nbsp;&nbsp;![Microsoft Office Specialist: Excel](https://images.credly.com/size/80x80/images/9d2bcbe6-519f-4ed0-ad34-aca077421568/MOS_Excel.png)
 
 ## 🌱 What I'm learning:
 - Expanding my knowledge in **full-stack development** and **data analysis**.
