@@ -13,6 +13,7 @@ I'm a developer passionate about web and data-driven technologies.
   <img src="https://github.com/LeonardoVilla/villaIcon/blob/main/css3-original.svg" title="Java" alt="Java" width="40" height="40"/>
   <img src="https://github.com/LeonardoVilla/villaIcon/blob/main/javascript-original.svg" title="Java" alt="Java" width="40" height="40"/>
   <img src="https://github.com/LeonardoVilla/villaIcon/blob/main/bootstrap-original.svg" title="Java" alt="Java" width="40" height="40"/>
+  <img src="https://github.com/LeonardoVilla/villaIcon/blob/main/filezilla-original.svg" title="Java" alt="Java" width="40" height="40"/>
   <img src="https://github.com/LeonardoVilla/villaIcon/blob/main/nodejs-original.svg" title="Java" alt="Java" width="40" height="40"/>
   <img src="https://github.com/LeonardoVilla/villaIcon/blob/main/New_Power_BI_Logo.svg.png" title="Java" alt="Java" width="40" height="40"/>
   <img src="https://github.com/LeonardoVilla/villaIcon/blob/main/Microsoft_Office_Excel_(2019%E2%80%93present).svg.png" title="Java" alt="Java" width="40" height="40"/>
