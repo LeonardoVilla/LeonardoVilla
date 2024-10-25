@@ -14,9 +14,9 @@ I'm a developer passionate about web and data-driven technologies.
   <img src="https://github.com/LeonardoVilla/villaIcon/blob/main/bootstrap-original.svg" title="Java" alt="Java" width="40" height="40"/>
   <img src="https://github.com/LeonardoVilla/villaIcon/blob/main/New_Power_BI_Logo.svg.png" title="Java" alt="Java" width="40" height="40"/>
   <img src="https://github.com/LeonardoVilla/villaIcon/blob/main/Microsoft_Office_Excel_(2019%E2%80%93present).svg.png" title="Java" alt="Java" width="40" height="40"/>
+  <img src="https://github.com/LeonardoVilla/villaIcon/blob/main/livewire-original.svg" title="Java" alt="Java" width="40" height="40"/>
 </div>
 
-- Excel (Advanced Formulas, VBA)
 
 ## 🌍 International Certifications:
 ![Microsoft Certified Educator](https://images.credly.com/size/80x80/images/54f7ea40-48bc-4217-b398-b81bae6de175/MCE.png)&nbsp;&nbsp;&nbsp;&nbsp;
