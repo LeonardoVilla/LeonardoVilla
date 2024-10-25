@@ -8,9 +8,9 @@ I'm a developer passionate about web and data-driven technologies.
   <img src="https://github.com/LeonardoVilla/villaIcon/blob/main/php-original.svg" title="Java" alt="Java" width="40" height="40"/>
   <img src="https://github.com/LeonardoVilla/villaIcon/blob/main/laravel-original.svg" title="Java" alt="Java" width="40" height="40"/>
   <img src="https://github.com/LeonardoVilla/villaIcon/blob/main/javascript-original.svg" title="Java" alt="Java" width="40" height="40"/>
+  <img src="https://github.com/LeonardoVilla/villaIcon/blob/main/nodejs-original.svg" title="Java" alt="Java" width="40" height="40"/>
 </div>
 
-- JavaScript (Node.js, Express, Frontend)
 - HTML & CSS (Bootstrap)
 - Power BI (Data Modeling, Visualization)
 - Excel (Advanced Formulas, VBA)
