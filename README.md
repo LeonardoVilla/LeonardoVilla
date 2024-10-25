@@ -9,6 +9,9 @@ I'm a developer passionate about web and data-driven technologies.
 - Power BI (Data Modeling, Visualization)
 - Excel (Advanced Formulas, VBA)
 
+## 🌍 Certificações Internacionais:
+![Microsoft Certified Educator](https://images.credly.com/size/680x680/images/54f7ea40-48bc-4217-b398-b81bae6de175/MCE.png)
+
 ## 🌱 What I'm learning:
 - Expanding my knowledge in **full-stack development** and **data analysis**.
 - Constantly improving in **Power BI** for business intelligence solutions.
