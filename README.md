@@ -5,8 +5,9 @@ I'm a developer passionate about web and data-driven technologies.
 ## 💻 Technologies & Skills:
 <div>
   <img src="https://github.com/LeonardoVilla/villaIcon/blob/main/androidstudio-original.svg" title="Java" alt="Java" width="40" height="40"/>
+  <img src="https://github.com/LeonardoVilla/villaIcon/blob/main/php-original.svg" title="Java" alt="Java" width="40" height="40"/>
 </div>
-- PHP (Laravel)
+
 - JavaScript (Node.js, Express, Frontend)
 - HTML & CSS (Bootstrap)
 - Power BI (Data Modeling, Visualization)
