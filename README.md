@@ -49,4 +49,5 @@ I'm a developer passionate about web and data-driven technologies.
 
 ## ⚡ Fun fact:
 I enjoy exploring data insights and automating processes through code!
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?LeonardoVilla=)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
