@@ -11,24 +11,24 @@ I'm a developer passionate about web and data-driven technologies.
 
 ## 💻 Technologies & Skills:
 <div>
-  <img src="https://github.com/LeonardoVilla/villaIcon/blob/main/php-original.svg" title="Java" alt="Java" width="40" height="40"/>
-  <img src="https://github.com/LeonardoVilla/villaIcon/blob/main/mysql-original.svg" title="Java" alt="Java" width="40" height="40"/>
-  <img src="https://github.com/LeonardoVilla/villaIcon/blob/main/apache-original.svg" title="Java" alt="Java" width="40" height="40"/>
-  <img src="https://github.com/LeonardoVilla/villaIcon/blob/main/laravel-original.svg" title="Java" alt="Java" width="40" height="40"/>
-  <img src="https://github.com/LeonardoVilla/villaIcon/blob/main/livewire-original.svg" title="Java" alt="Java" width="40" height="40"/>
-  <img src="https://github.com/LeonardoVilla/villaIcon/blob/main/sqlite-original.svg" title="Java" alt="Java" width="40" height="40"/>
-  <img src="https://github.com/LeonardoVilla/villaIcon/blob/main/html5-original.svg" title="Java" alt="Java" width="40" height="40"/>
-  <img src="https://github.com/LeonardoVilla/villaIcon/blob/main/css3-original.svg" title="Java" alt="Java" width="40" height="40"/>
-  <img src="https://github.com/LeonardoVilla/villaIcon/blob/main/javascript-original.svg" title="Java" alt="Java" width="40" height="40"/>
-  <img src="https://github.com/LeonardoVilla/villaIcon/blob/main/bootstrap-original.svg" title="Java" alt="Java" width="40" height="40"/>
-  <img src="https://github.com/LeonardoVilla/villaIcon/blob/main/filezilla-original.svg" title="Java" alt="Java" width="40" height="40"/>
-  <img src="https://github.com/LeonardoVilla/villaIcon/blob/main/nodejs-original.svg" title="Java" alt="Java" width="40" height="40"/>
-  <img src="https://github.com/LeonardoVilla/villaIcon/blob/main/New_Power_BI_Logo.svg.png" title="Java" alt="Java" width="40" height="40"/>
-  <img src="https://github.com/LeonardoVilla/villaIcon/blob/main/Microsoft_Office_Excel_(2019%E2%80%93present).svg.png" title="Java" alt="Java" width="40" height="40"/>
-  <img src="https://github.com/LeonardoVilla/villaIcon/blob/main/androidstudio-original.svg" title="Java" alt="Java" width="40" height="40"/>
-  <img src="https://github.com/LeonardoVilla/villaIcon/blob/main/angular-original.svg" title="Java" alt="Java" width="40" height="40"/>
-  <img src="https://github.com/LeonardoVilla/villaIcon/blob/main/react-original.svg" title="Java" alt="Java" width="40" height="40"/>
-  <img src="https://github.com/LeonardoVilla/villaIcon/blob/main/postman-original.svg" title="Java" alt="Java" width="40" height="40"/>
+  <img src="https://github.com/LeonardoVilla/villaIcon/blob/main/php-original.svg" title="php" alt="php" width="40" height="40"/>
+  <img src="https://github.com/LeonardoVilla/villaIcon/blob/main/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>
+  <img src="https://github.com/LeonardoVilla/villaIcon/blob/main/apache-original.svg" title="apache" alt="apache" width="40" height="40"/>
+  <img src="https://github.com/LeonardoVilla/villaIcon/blob/main/laravel-original.svg" title="laravel" alt="laravel" width="40" height="40"/>
+  <img src="https://github.com/LeonardoVilla/villaIcon/blob/main/livewire-original.svg" title="livewire" alt="livewire" width="40" height="40"/>
+  <img src="https://github.com/LeonardoVilla/villaIcon/blob/main/sqlite-original.svg" title="sqlite" alt="sqlite" width="40" height="40"/>
+  <img src="https://github.com/LeonardoVilla/villaIcon/blob/main/html5-original.svg" title="html5" alt="Java" width="40" height="40"/>
+  <img src="https://github.com/LeonardoVilla/villaIcon/blob/main/css3-original.svg" title="css3" alt="css3" width="40" height="40"/>
+  <img src="https://github.com/LeonardoVilla/villaIcon/blob/main/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>
+  <img src="https://github.com/LeonardoVilla/villaIcon/blob/main/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>
+  <img src="https://github.com/LeonardoVilla/villaIcon/blob/main/filezilla-original.svg" title="filezilla" alt="filezilla" width="40" height="40"/>
+  <img src="https://github.com/LeonardoVilla/villaIcon/blob/main/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>
+  <img src="https://github.com/LeonardoVilla/villaIcon/blob/main/New_Power_BI_Logo.svg.png" title="powerbi" alt="powerbi" width="40" height="40"/>
+  <img src="https://github.com/LeonardoVilla/villaIcon/blob/main/Microsoft_Office_Excel_(2019%E2%80%93present).svg.png" title="Java" alt="excel" width="40" height="40"/>
+  <img src="https://github.com/LeonardoVilla/villaIcon/blob/main/androidstudio-original.svg" title="androidstudio" alt="androidstudio" width="40" height="40"/>
+  <img src="https://github.com/LeonardoVilla/villaIcon/blob/main/angular-original.svg" title="angular" alt="angular" width="40" height="40"/>
+  <img src="https://github.com/LeonardoVilla/villaIcon/blob/main/react-original.svg" title="react" alt="react" width="40" height="40"/>
+  <img src="https://github.com/LeonardoVilla/villaIcon/blob/main/postman-original.svg" title="postman" alt="postman" width="40" height="40"/>
 </div>
 
 
