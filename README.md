@@ -2,6 +2,13 @@
 
 I'm a developer passionate about web and data-driven technologies.
 
+## 🎓 Education:
+- **Degree**: Technology in Data Processing
+- **Postgraduate Studies**:
+  - Software Architecture
+  - Full Stack Web Development
+  - Business Intelligence, Big Data, and Analytics - Data Science
+
 ## 💻 Technologies & Skills:
 <div>
   <img src="https://github.com/LeonardoVilla/villaIcon/blob/main/php-original.svg" title="Java" alt="Java" width="40" height="40"/>
