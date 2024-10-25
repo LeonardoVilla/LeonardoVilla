@@ -6,6 +6,7 @@ I'm a developer passionate about web and data-driven technologies.
 <div>
   <img src="https://github.com/LeonardoVilla/villaIcon/blob/main/php-original.svg" title="Java" alt="Java" width="40" height="40"/>
   <img src="https://github.com/LeonardoVilla/villaIcon/blob/main/mysql-original.svg" title="Java" alt="Java" width="40" height="40"/>
+  <img src="https://github.com/LeonardoVilla/villaIcon/blob/main/apache-original.svg" title="Java" alt="Java" width="40" height="40"/>
   <img src="https://github.com/LeonardoVilla/villaIcon/blob/main/laravel-original.svg" title="Java" alt="Java" width="40" height="40"/>
   <img src="https://github.com/LeonardoVilla/villaIcon/blob/main/livewire-original.svg" title="Java" alt="Java" width="40" height="40"/>
   <img src="https://github.com/LeonardoVilla/villaIcon/blob/main/sqlite-original.svg" title="Java" alt="Java" width="40" height="40"/>
