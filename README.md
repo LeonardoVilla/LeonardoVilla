@@ -50,5 +50,5 @@ I'm a developer passionate about web and data-driven technologies.
 ## ⚡ Fun fact:
 I enjoy exploring data insights and automating processes through code!
 
-## <i class="fas fa-chart-line"></i> GitHub Streak Stats
+## 📊 GitHub Streak Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
