@@ -11,6 +11,7 @@ I'm a developer passionate about web and data-driven technologies.
   <img src="https://github.com/LeonardoVilla/villaIcon/blob/main/nodejs-original.svg" title="Java" alt="Java" width="40" height="40"/>
   <img src="https://github.com/LeonardoVilla/villaIcon/blob/main/html5-original.svg" title="Java" alt="Java" width="40" height="40"/>
   <img src="https://github.com/LeonardoVilla/villaIcon/blob/main/css3-original.svg" title="Java" alt="Java" width="40" height="40"/>
+  <img src="https://github.com/LeonardoVilla/villaIcon/blob/main/bootstrap-original.svg" title="Java" alt="Java" width="40" height="40"/>
 </div>
 
 - HTML & CSS (Bootstrap)
