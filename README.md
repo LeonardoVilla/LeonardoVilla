@@ -4,8 +4,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=LeonardoVilla&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeonardoVilla&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
-
----
+<br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" alt="javascript logo" />
@@ -47,7 +46,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="20" alt="sqlite logo" />
 </div>
 
----
+<br>
 
 <div align="center">
   <a href="https://www.youtube.com/@LeonardoVillaProfessor" target="_blank">
@@ -67,7 +66,7 @@
   </a>
 </div>
 
----
+<br>
 
 ### 🎓 Education:
 - **Degree**: Technology in Data Processing
@@ -76,7 +75,7 @@
   - Full Stack Web Development
   - Business Intelligence, Big Data, and Analytics - Data Science
 
----
+<br>
 
 ### 🌍 International Certifications:
 
@@ -89,13 +88,13 @@
   <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCDMF2023.png" alt="Certification 6" width="160" height="80" />
 </div>
 
----
+<br>
 
 ### 🌱 What I'm learning:
 - Expanding my knowledge in **full-stack development** and **data analysis**.
 - Constantly improving in **Power BI** for business intelligence solutions.
 
----
+<br>
 
 ### ⚡ Fun fact:
 I enjoy exploring data insights and automating processes through code!
