@@ -84,12 +84,15 @@
 
 <h2 align="left">🌍 International Certifications:</h2>
 
-<img class="rc10img" src="https://images.credly.com/size/80x80/images/54f7ea40-48bc-4217-b398-b81bae6de175/MCE.png" alt="Oracle Cloud Data Management 2023 Certified Foundations Associate" style="width: 100px; height: 80px; object-fit: cover; margin:0 auto;">
-<img class="rc10img" src="https://images.credly.com/size/80x80/images/9d2bcbe6-519f-4ed0-ad34-aca077421568/MOS_Excel.png" alt="Oracle Cloud Data Management 2023 Certified Foundations Associate" style="width: 100px; height: 80px; object-fit: cover; margin:0 auto;">
-<img class="rc10img" src="https://images.credly.com/size/80x80/images/9a13a2d2-c007-4260-81bd-bf5d1ffb9223/image.png" alt="Oracle Cloud Data Management 2023 Certified Foundations Associate" style="width: 100px; height: 80px; object-fit: cover; margin:0 auto;">
-<img class="rc10img" src="https://images.credly.com/size/80x80/images/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/image.png" alt="Oracle Cloud Data Management 2023 Certified Foundations Associate" style="width: 100px; height: 80px; object-fit: cover; margin:0 auto;">
-<img src="https://brm-workforce.oracle.com/pdf/certview/images/OCIF2023CA.png" alt="Oracle Cloud Infrastructure Certification" width="160" height="80" style="margin-left: -150px;">
-<img class="rc10img" src="https://brm-workforce.oracle.com/pdf/certview/images/OCDMF2023.png" alt="Oracle Cloud Data Management 2023 Certified Foundations Associate" style="width: 160px; height: 80px; object-fit: cover; margin:0 auto;">
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://images.credly.com/size/80x80/images/54f7ea40-48bc-4217-b398-b81bae6de175/MCE.png" alt="Oracle Cloud Data Management 2023 Certified Foundations Associate" style="width: 100px; height: 80px; object-fit: cover;">
+  <img src="https://images.credly.com/size/80x80/images/9d2bcbe6-519f-4ed0-ad34-aca077421568/MOS_Excel.png" alt="Oracle Cloud Data Management 2023 Certified Foundations Associate" style="width: 100px; height: 80px; object-fit: cover;">
+  <img src="https://images.credly.com/size/80x80/images/9a13a2d2-c007-4260-81bd-bf5d1ffb9223/image.png" alt="Oracle Cloud Data Management 2023 Certified Foundations Associate" style="width: 100px; height: 80px; object-fit: cover;">
+  <img src="https://images.credly.com/size/80x80/images/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/image.png" alt="Oracle Cloud Data Management 2023 Certified Foundations Associate" style="width: 100px; height: 80px; object-fit: cover;">
+  <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCIF2023CA.png" alt="Oracle Cloud Infrastructure Certification" style="width: 160px; height: 80px; object-fit: cover;">
+  <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCDMF2023.png" alt="Oracle Cloud Data Management 2023 Certified Foundations Associate" style="width: 160px; height: 80px; object-fit: cover;">
+</div>
+
 
 ###
 
