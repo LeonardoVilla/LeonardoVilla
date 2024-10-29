@@ -49,6 +49,9 @@
 <br>
 
 <div align="center">
+  <a href="https://www.credly.com/users/villa" target="_blank">
+    <img src="https://cdn.credly.com/assets/structure/logo-6a563f41a66826f3d8d40780cfdab9bd0d56920579d94b927ffe29341f7f2c7e.svg" alt="Certification 1" height="35" />
+  </a>&nbsp;
   <a href="https://www.youtube.com/@LeonardoVillaProfessor" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
   </a>
@@ -66,7 +69,6 @@
   </a>
 </div>
 
-<br>
 
 ### 🎓 Education:
 - **Degree**: Technology in Data Processing
@@ -75,26 +77,11 @@
   - Full Stack Web Development
   - Business Intelligence, Big Data, and Analytics - Data Science
 
-<br>
-
-### 🌍 International Certifications:
-
-<div align="left">
-  <img src="https://images.credly.com/size/80x80/images/54f7ea40-48bc-4217-b398-b81bae6de175/MCE.png" alt="Certification 1" width="80" height="80" />
-  <img src="https://images.credly.com/size/80x80/images/9d2bcbe6-519f-4ed0-ad34-aca077421568/MOS_Excel.png" alt="Certification 2" width="80" height="80" />
-  <img src="https://images.credly.com/size/80x80/images/9a13a2d2-c007-4260-81bd-bf5d1ffb9223/image.png" alt="Certification 3" width="80" height="80" />
-  <img src="https://images.credly.com/size/80x80/images/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/image.png" alt="Certification 4" width="80" height="80" />
-  <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCIF2023CA.png" alt="Certification 5" width="160" height="80" />
-  <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCDMF2023.png" alt="Certification 6" width="160" height="80" />
-</div>
-
-<br>
 
 ### 🌱 What I'm learning:
 - Expanding my knowledge in **full-stack development** and **data analysis**.
 - Constantly improving in **Power BI** for business intelligence solutions.
 
-<br>
 
 ### ⚡ Fun fact:
 I enjoy exploring data insights and automating processes through code!
