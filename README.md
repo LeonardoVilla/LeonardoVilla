@@ -5,7 +5,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeonardoVilla&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 <br>
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/6941080?v=4"  />
+<img align="right" height="150" src="https://github.com/LeonardoVilla/villaIcon/blob/main/fundoSF.png"  />
 
 ###
 <div align="center">
