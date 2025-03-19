@@ -51,7 +51,7 @@
 
 <div align="center">
   <a href="https://www.credly.com/users/villa" target="_blank">
-    <img src="https://cdn.credly.com/assets/structure/logo-6a563f41a66826f3d8d40780cfdab9bd0d56920579d94b927ffe29341f7f2c7e.svg" alt="Certification 1" height="35" />
+    <img src="https://github.com/LeonardoVilla/img/blob/main/credly.svg" alt="Certification 1" height="35" />
   </a>&nbsp;
   <a href="https://www.youtube.com/@LeonardoVillaProfessor" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
